@@ -1,0 +1,24 @@
+{
+  "name": "process-stopwatch",
+  "version": "1.0.0",
+  "description": "A simple timer utility for NodeJs using the process timer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZachCMP/process-stopwatch.git"
+  },
+  "keywords": [
+    "stopwatch",
+    "timer",
+    "time"
+  ],
+  "author": "Zach Parks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZachCMP/process-stopwatch/issues"
+  },
+  "homepage": "https://github.com/ZachCMP/process-stopwatch#readme"
+}

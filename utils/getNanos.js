@@ -1,0 +1,1 @@
+module.exports = time => time[0] * 1000000000 + time[1]
