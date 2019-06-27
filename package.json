@@ -1,6 +1,6 @@
 {
   "name": "process-stopwatch",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "A simple timer utility for NodeJs using the process timer",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "timing"
   ],
   "author": "Zach Parks",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ZachCMP/process-stopwatch/issues"
   },
